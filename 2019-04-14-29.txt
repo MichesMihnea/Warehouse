@@ -1,0 +1,5 @@
+Bill #29
+Date: 2019-04-14
+Client name: client4
+Acquired a quantity of 1200 of product p1
+Amount paid: 4300.0
